@@ -22,4 +22,4 @@ renewal emails
 
 # App Screenshots
 
-![Output 1](output/821f54f2-1bae-4a90-add4-5c5ac9c82d13.jpg)
+<img src="output/821f54f2-1bae-4a90-add4-5c5ac9c82d13.jpg" alt="output" width="200"/>
