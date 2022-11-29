@@ -14,4 +14,4 @@ renewal emails
 <hr>
 
 **Tech Stack Used** 
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=node.js&logoColor=339933)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
