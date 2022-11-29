@@ -33,4 +33,9 @@ renewal emails
 <img src="output/2210c237-20ce-4442-a6e0-005657c65be6.jpg" alt="output" width="200"/>
 
 
+# Admin Screenshots
+
+<img src="output/Screenshot (36).png" alt="output" width="400"/>
+<img src="output/Screenshot (37).png" alt="output" width="400"/>
+<img src="output/Screenshot (38).png" alt="output" width="400"/>
 
