@@ -18,7 +18,7 @@ renewal emails
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
-![Razorpay](https://d6xcmfyh68wv8.cloudfront.net/assets/razorpay-glyph.svg)
+![Razorpay](https://img.shields.io/badge/-Razorpay-000000?style=flat&logo=razorpay)
 
 # App Screenshots
 
