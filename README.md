@@ -20,7 +20,7 @@ renewal emails
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![Razorpay](https://img.shields.io/badge/-Razorpay-000000?style=flat&logo=razorpay)
 
-# App Screenshots
+## App Screenshots
 
 <img src="output/821f54f2-1bae-4a90-add4-5c5ac9c82d13.jpg" alt="output" width="200"/>
 <img src="output/7bbd1a4a-01ba-45f7-b9b1-79de36cb9ad1.jpg" alt="output" width="200"/>
@@ -33,7 +33,7 @@ renewal emails
 <img src="output/2210c237-20ce-4442-a6e0-005657c65be6.jpg" alt="output" width="200"/>
 
 
-# Admin Screenshots
+## Admin Screenshots
 
 <img src="output/Screenshot (36).png" alt="output" width="400"/>
 <img src="output/Screenshot (37).png" alt="output" width="400"/>
